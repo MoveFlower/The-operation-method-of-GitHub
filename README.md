@@ -15,6 +15,7 @@ Reord the operation method of GitHub
     >1.git clone ==htpp://...==
     
     >2.cd ==the name of the repository==
+    
     >3.git add .
     
     >4.git commit -m =="free to write"==
